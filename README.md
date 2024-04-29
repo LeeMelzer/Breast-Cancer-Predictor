@@ -13,4 +13,4 @@ The model was found to have an accuracy of 98% (see image below).
  
 ![bandicam 2024-04-29 14-27-40-059](https://github.com/LeeMelzer/Logistic-Regression-Breast-Cancer-Prediction/assets/114274820/5a743ee9-5f45-4d57-8bb8-335a03df91a8)
 
-The full JupyterLab workflow can be viewed in the in the predictor.pdf file above
+The full JupyterLab workflow can be viewed in the predictor.pdf file above
